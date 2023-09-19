@@ -1,0 +1,24 @@
+Log de Vendas:
+[0] 54 89 4
+[1] 71 35 2
+[2] 88 35 1
+[3] 54 60 5
+[4] 88 89 3
+[5] 54 89 2
+Catalogo de Produtos:
+[0] 35 125.00 Jeep_Renegade
+[1] 60 176.79 Jeep_Compass
+[2] 89 124.39 Virtus
+Lista de Vendedores:
+[0] 54 Crystoer
+[1] 71 Andressa
+[2] 88 Facao
+Total geral vendido: 0.00
+Total de vendas de cada produto:
+Produto 35 (Jeep_Renegade): R$0.00
+Produto 60 (Jeep_Compass): R$0.00
+Produto 89 (Virtus): R$0.00
+Total de vendas de cada vendedor:
+Vendedor 54 (Crystoer): R$0.00
+Vendedor 71 (Andressa): R$0.00
+Vendedor 88 (Facao): R$0.00
